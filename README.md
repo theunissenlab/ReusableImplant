@@ -78,11 +78,11 @@ Note: Links are for reference, but could be sourced elsewhere. The brass inserts
 
 - [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124738465135) (5x): To be heat-inserted into the Payload.
 
-- [M3 Brass knurled inserts](https://www.mcmaster.com/94459A140/) (3x): To be heat-inserted into the Docking Holder.
+- [M3 Brass knurled inserts](https://www.mcmaster.com/94459A140/) (6x): To be heat-inserted into the Docking Holder and support base.
   
 - [M1 Screws](https://www.mcmaster.com/91800A050/) (5x): To lock modules together.
 
-- [M3 10mm screws](https://www.mcmaster.com/91290A295/) (3x): For securing the Docking Module in its holder
+- [M3 10mm screws](https://www.mcmaster.com/91290A295/) (6x): For securing the Docking Module in its holder, and the rods in the support base
 
 - 6.4mm diameter rods: For creating the assembly jig
 
