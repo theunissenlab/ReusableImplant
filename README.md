@@ -76,7 +76,7 @@ This is the base of the assembly jig. It is used to secure the rods. Print in Bl
 
 Note: Links are for reference, but could be sourced elsewhere. The brass inserts are heat inserted using a soldering iron and mild pressure.
 
-- [M1 Brass knurled inserts](https://www.mcmaster.com/92120A110/) (5x): To be heat-inserted into the Payload.
+- [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124738465135) (5x): To be heat-inserted into the Payload.
 
 - [M3 Brass knurled inserts](https://www.mcmaster.com/94459A140/) (3x): To be heat-inserted into the Docking Holder.
   
