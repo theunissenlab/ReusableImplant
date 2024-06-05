@@ -69,7 +69,7 @@ This is a holder that holds the docking module in place when using the jig to co
 This is the base of the assembly jig. It is used to secure the rods. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-05 at 11 49 12 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/dece0637-9010-449f-a46c-d8cc5e54174a">
+<img width="500" alt="Screenshot 2024-06-05 at 4 29 02 PM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/79f157df-87ac-4e1e-967e-ade1a96be351">
 </p>
 
 ## Additional Parts:
