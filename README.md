@@ -6,6 +6,11 @@ In this repository are all the parts required to build the chronic implant. It i
 
 - [Payload](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#payload)
 - [Docking](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#Docking)
+- [Amplifier Holder](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#amplifier-holder)
+- [Headstage Cover](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#headstage-cover)
+- [Payload Holder](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#payload-holder)
+- [Docking Holder](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#docking-holder)
+- [Support Base](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#support-base)
 
 ### Payload
 
