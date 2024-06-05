@@ -64,6 +64,20 @@ This is the base of the assembly jig. It is used to secure the rods. Print in Bl
 <img width="500" alt="Screenshot 2024-06-05 at 11 49 12 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/dece0637-9010-449f-a46c-d8cc5e54174a">
 </p>
 
+## Additional Parts:
+
+Note: Links are for reference, but could be sourced elsewhere. The brass inserts are heat inserted using a soldering iron and mild pressure.
+
+- [M1 Brass knurled inserts](https://www.mcmaster.com/92120A110/) (5x): To be heat-inserted into the Payload.
+
+- [M3 Brass knurled inserts](https://www.mcmaster.com/94459A140/) (3x): To be heat-inserted into the Docking Holder.
+  
+- [M1 Screws](https://www.mcmaster.com/91800A050/) (5x): To lock modules together.
+
+- [M3 10mm screws](https://www.mcmaster.com/91290A295/) (3x): For securing the Docking Module in its holder
+
+- 6.4mm diameter rods: For creating the assembly jig
+
 ## Note
 All .sldprt files were created using SOLIDWORKS 2022. This design is inspired by the [Coen-Lab Apollo Implant](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_payload-or-np2-alpha_payload).
 
