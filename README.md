@@ -4,7 +4,7 @@
 
 In this repository are all the parts required to build the chronic implant. It is made for use with [insert type of amplifier, probe, etc]. All parts were printed on FormLabs Form 3+. Specific printing instructions including resin type, density, and touchpoint size are detailed depending on the part.
 
-# Payload
+### Payload
 
 This is the module that holds the probe. It is re-used across implantations. Print in Rigid resin with density at 80 and touchpoint size at 0.4mm.
 
@@ -12,7 +12,7 @@ This is the module that holds the probe. It is re-used across implantations. Pri
 <img width="500" alt="Screenshot 2024-06-05 at 11 24 27 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/a3eff625-8146-4933-9994-2525d17f3a1b">
 </p>
 
-# Docking
+### Docking
 
 This is the module that is cemented to the skull after being screwed to the payload module. A new docking module is required for each implantation. Print in Rigid resin with density at 80 and touchpoint size at 0.4mm.
 
@@ -20,7 +20,7 @@ This is the module that is cemented to the skull after being screwed to the payl
 <img width="500" alt="Screenshot 2024-06-05 at 11 29 24 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/d633502a-54a7-4b80-b140-46777a30f002">
 </p>
 
-# Amplifier Holder
+### Amplifier Holder
 
 This is the module that inserts into the payload in order to hold and stablilize the amplifier. It is re-used across implantations. Print in Rigid resin with density at 80 and touchpoint size at 0.4mm.
 
@@ -28,7 +28,7 @@ This is the module that inserts into the payload in order to hold and stablilize
 <img width="500" alt="Screenshot 2024-06-05 at 11 31 24 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/7fb989df-7cde-4744-a336-4ce43e5d1cd1">
 </p>
 
-# Headstage Cover
+### Headstage Cover
 
 This is the cover for the implant. It protects the flex cable between the probe and amplifier. It is re-used across implantations. Print in Black resin with density 90 and touchpoint size at 0.4mm.
 
@@ -36,11 +36,11 @@ This is the cover for the implant. It protects the flex cable between the probe 
 <img width="500" alt="Screenshot 2024-06-05 at 11 36 27 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/23847c96-7bb4-4235-bb57-4feecc495763">
 </p>
 
-## Assembly Jib Parts List
+### Assembly Jib Parts List
 
 In this section are all the parts needed to create the jig for assembly.
 
-# Payload Holder
+## Payload Holder
 
 This is a holder that can is inserted into the payload module during assembly so that the payload module is centered. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
@@ -48,7 +48,7 @@ This is a holder that can is inserted into the payload module during assembly so
 <img width="500" alt="Screenshot 2024-06-05 at 11 42 28 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/7b9adc83-5684-4387-bba9-d337259927b6">
 </p>
 
-# Docking Holder
+### Docking Holder
 
 This is a holder that holds the docking module in place when using the jig to combine the two modules. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
@@ -56,7 +56,7 @@ This is a holder that holds the docking module in place when using the jig to co
 <img width="500" alt="Screenshot 2024-06-05 at 11 44 50 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/7c3574c5-1bde-4675-b4dd-1d37db4a188b">
 </p>
 
-# Support Base
+### Support Base
 
 This is the base of the assembly jig. It is used to secure the rods. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
