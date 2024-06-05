@@ -4,6 +4,9 @@
 
 In this repository are all the parts required to build the chronic implant. It is made for use with [insert type of amplifier, probe, etc]. All parts were printed on FormLabs Form 3+. Specific printing instructions including resin type, density, and touchpoint size are detailed depending on the part.
 
+- [Payload](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#payload)
+- [Docking](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#Docking)
+
 ### Payload
 
 This is the module that holds the probe. It is re-used across implantations. Print in Rigid resin with density at 80 and touchpoint size at 0.4mm.
