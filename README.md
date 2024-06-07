@@ -25,7 +25,7 @@ This is the module that holds the probe. It is re-used across implantations. Pri
 This is the module that is cemented to the skull after being screwed to the payload module. A new docking module is required for each implantation. Print in Rigid resin with density at 80 and touchpoint size at 0.4mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-05 at 11 29 24 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/d633502a-54a7-4b80-b140-46777a30f002">
+<img width="500" alt="Screenshot 2024-06-07 at 9 25 05 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/17acbae5-a32b-49a3-b539-cdd71506c2db">
 </p>
 
 ### Amplifier Holder
@@ -44,7 +44,7 @@ This is the cover for the implant. It protects the flex cable between the probe 
 <img width="500" alt="Screenshot 2024-06-05 at 11 36 27 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/23847c96-7bb4-4235-bb57-4feecc495763">
 </p>
 
-### Assembly Jib Parts List
+### Assembly Jig Parts List
 
 In this section are all the parts needed to create the jig for assembly.
 
@@ -53,7 +53,7 @@ In this section are all the parts needed to create the jig for assembly.
 This is a holder that can is inserted into the payload module during assembly so that the payload module is centered. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-05 at 11 42 28 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/7b9adc83-5684-4387-bba9-d337259927b6">
+<img width="500" alt="Screenshot 2024-06-07 at 9 25 41 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/2e4cd28b-8017-4d51-9683-14fe68086567">
 </p>
 
 ### Docking Holder
@@ -61,7 +61,8 @@ This is a holder that can is inserted into the payload module during assembly so
 This is a holder that holds the docking module in place when using the jig to combine the two modules. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-05 at 11 44 50 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/7c3574c5-1bde-4675-b4dd-1d37db4a188b">
+<img width="500" alt="Screenshot 2024-06-07 at 9 24 19 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/1090253a-a442-4a90-84ff-7e174218d353">
+
 </p>
 
 ### Support Base
