@@ -1,6 +1,6 @@
 # Chronic Reusable Implant Parts List and Instructions
 
-Both STL and SLDPRT files have been included for your convinence. All SLDPRT files were made on SOLIDWORKS 2022.
+Both .stl and .sldprt files have been included for your convinence. All SLDPRT files were made on SOLIDWORKS 2022.
 
 ## Implant Parts List
 
