@@ -75,7 +75,13 @@ This is the base of the assembly jig. It is used to secure the rods. Print in Bl
 <img width="500" alt="Screenshot 2024-06-05 at 4 29 02 PM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/79f157df-87ac-4e1e-967e-ade1a96be351">
 </p>
 
-## Assembly Diagrams
+## Assembly Instructions
+
+### Insert Hardware
+
+1. Heat insert M1 Brass knurled inserts into the 
+
+### Assembly Diagrams
 
 This is the complete implant assembly.
 
