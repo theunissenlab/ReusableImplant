@@ -1,5 +1,7 @@
 # Chronic Reusable Implant Parts List and Instructions
 
+Both STL and SLDPRT files have been included for your convinence. All SLDPRT files were made on SOLIDWORKS 2022.
+
 ## Implant Parts List
 
 In this repository are all the parts required to build the chronic implant. It is made for use with [insert type of amplifier, probe, etc]. All parts were printed on FormLabs Form 3+. Specific printing instructions including resin type, density, and touchpoint size are detailed depending on the part.
