@@ -4,7 +4,7 @@ Both .stl and .sldprt files have been included for your convinence. All SLDPRT f
 
 ## Implant Parts List
 
-In this repository are all the parts required to build the chronic implant. It is made for use with [insert type of amplifier, probe, etc]. All parts were printed on FormLabs Form 3+. Specific printing instructions including resin type, density, and touchpoint size are detailed depending on the part.
+In this repository are all the parts required to build the chronic implant. It is made for use with the Cambridge Neurotech Mini-Amp and silicon probes. All parts were printed on FormLabs Form 3+. Specific printing instructions including resin type, density, and touchpoint size are detailed depending on the part.
 
 - [Payload](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#payload)
 - [Docking](https://github.com/AnnLiBenn/ReusableImplant/blob/main/README.md#Docking)
