@@ -97,6 +97,15 @@ Note: Links are for reference, but could be sourced elsewhere. The brass inserts
 
 - 6.4mm diameter rods: For creating the assembly jig
 
+
+## Cleaning Instructions
+
+This is a cleaning cap for the cleaning of the probes after use. It is designed to screw on to 20mL vial.
+
+<p align="center">
+<img width="578" alt="Screenshot 2024-06-12 at 3 41 25 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/56cb8af3-eeeb-475a-b5a7-2f9e856baf54">
+</p>
+
 ## Note
 All .sldprt files were created using SOLIDWORKS 2022. This design is inspired by the [Coen-Lab Apollo Implant](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_payload-or-np2-alpha_payload).
 
