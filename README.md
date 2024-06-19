@@ -19,7 +19,8 @@ In this repository are all the parts required to build the chronic implant. It i
 This is the module that holds the probe. It is re-used across implantations. Print in Rigid resin with density at 80 and touchpoint size at 0.4mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-05 at 11 24 27 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/a3eff625-8146-4933-9994-2525d17f3a1b">
+<img width="500" alt="Screenshot 2024-06-19 at 3 01 42 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/d12d7921-efca-4596-ac49-d25720fa00ac">
+
 </p>
 
 ### Docking
@@ -27,7 +28,8 @@ This is the module that holds the probe. It is re-used across implantations. Pri
 This is the module that is cemented to the skull after being screwed to the payload module. A new docking module is required for each implantation. Print in Rigid resin with density at 80 and touchpoint size at 0.4mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-07 at 9 25 05 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/17acbae5-a32b-49a3-b539-cdd71506c2db">
+<img width="500" alt="Screenshot 2024-06-19 at 3 02 54 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/8efc8cc4-4146-45c1-be98-59bcf393276d">
+
 </p>
 
 ### Amplifier Holder
@@ -35,7 +37,8 @@ This is the module that is cemented to the skull after being screwed to the payl
 This is the module that inserts into the payload in order to hold and stablilize the amplifier. It is re-used across implantations. Print in Rigid resin with density at 80 and touchpoint size at 0.4mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-05 at 11 31 24 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/7fb989df-7cde-4744-a336-4ce43e5d1cd1">
+<img width="500" alt="Screenshot 2024-06-19 at 3 03 33 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/cd0e06c5-6918-4b92-a313-55e5c4b03c6f">
+
 </p>
 
 ### Headstage Cover
@@ -43,7 +46,8 @@ This is the module that inserts into the payload in order to hold and stablilize
 This is the cover for the implant. It protects the flex cable between the probe and amplifier. It is re-used across implantations. Print in Black resin with density 90 and touchpoint size at 0.4mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-05 at 11 36 27 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/23847c96-7bb4-4235-bb57-4feecc495763">
+<img width="500" alt="Screenshot 2024-06-19 at 3 04 15 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/14b8766d-79f6-40da-817e-e94fbde80be1">
+
 </p>
 
 ### Assembly Jig Parts List
@@ -55,7 +59,8 @@ In this section are all the parts needed to create the jig for assembly.
 This is a holder that can is inserted into the payload module during assembly so that the payload module is centered. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-07 at 9 25 41 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/2e4cd28b-8017-4d51-9683-14fe68086567">
+<img width="500" alt="Screenshot 2024-06-19 at 3 06 48 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/b1c68002-a46c-48bd-a70b-0c428f771e68">
+
 </p>
 
 ### Docking Holder
@@ -63,7 +68,7 @@ This is a holder that can is inserted into the payload module during assembly so
 This is a holder that holds the docking module in place when using the jig to combine the two modules. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-07 at 9 24 19 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/1090253a-a442-4a90-84ff-7e174218d353">
+<img width="500" alt="Screenshot 2024-06-19 at 3 07 34 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/75e65622-f002-4936-aae6-e50d0570bec1">
 
 </p>
 
@@ -72,7 +77,15 @@ This is a holder that holds the docking module in place when using the jig to co
 This is the base of the assembly jig. It is used to secure the rods. Print in Black resin with density 80 and touchpoint size at 0.45mm.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-05 at 4 29 02 PM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/79f157df-87ac-4e1e-967e-ade1a96be351">
+<img width="500" alt="Screenshot 2024-06-19 at 3 07 56 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/b2f3dd31-a906-4132-80f7-2febfba2aca6">
+</p>
+
+### Rod Attachment
+
+This is an attachment for a rod to hold the payload module. Print in Black resin density 80 and touchpoint size 0.40mm.
+
+<p align="center">
+<img width="233" alt="Screenshot 2024-06-19 at 3 11 28 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/3658539a-f70a-49c6-92c4-d3ead4997fec">
 </p>
 
 ### Assembly Diagrams
@@ -80,7 +93,10 @@ This is the base of the assembly jig. It is used to secure the rods. Print in Bl
 This is the complete implant assembly.
 
 <p align="center">
-<img width="500" alt="Screenshot 2024-06-07 at 9 47 59 AM" src="https://github.com/AnnLiBenn/ReusableImplant/assets/43388358/628c868a-5496-48a9-867e-eb9356a2885a">
+<img width="400" alt="Screenshot 2024-06-19 at 3 09 19 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/8f9de256-d956-4230-985b-134567dcc3c1">
+<img width="400" alt="Screenshot 2024-06-19 at 3 10 05 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/2cfe9c75-6b54-48db-bee5-dc12057b175e">
+
+
 </p>
 
 ## Additional Parts:
@@ -103,7 +119,8 @@ Note: Links are for reference, but could be sourced elsewhere. The brass inserts
 This is a cleaning cap for the cleaning of the probes after use. It is designed to screw on to 20mL vial.
 
 <p align="center">
-<img width="578" alt="Screenshot 2024-06-12 at 3 41 25 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/56cb8af3-eeeb-475a-b5a7-2f9e856baf54">
+<img width="500" alt="Screenshot 2024-06-19 at 3 10 26 PM" src="https://github.com/theunissenlab/ReusableImplant/assets/43388358/b61acd56-37bb-4faf-8a9e-a5fcb5c82dfe">
+
 </p>
 
 ## Note
